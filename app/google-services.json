@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90395862622",
+    "project_id": "gt-project-4cf8a",
+    "storage_bucket": "gt-project-4cf8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90395862622:android:15d33c4a3b8b361f8e76cf",
+        "android_client_info": {
+          "package_name": "com.example.gt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfY8mQ2qwPiS-BeIrlexJUgY59ggiM6_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

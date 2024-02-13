@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ECommerce" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/oreange</item>
+    </style>
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">#296D98</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
+
+    <style name="Theme.ECommerce" parent="Base.Theme.ECommerce" />
+</resources>
